@@ -1,5 +1,5 @@
  <h1>👋 Hi there, I am Sammed </h1>
-🏫 I'm a dedicated CS graduate student at Rutgers University, New Brunswick, focused on harnessing my passion for development and innovation.</br></br>
+🏫 I'm a CS graduate student at Rutgers University, New Brunswick, focused on harnessing my passion for development and innovation.</br></br>
 🔭 I’m currently working on a range of software development projects that challenge my skills and expand my understanding of new technologies.</br></br>
 🌱 With a strong foundation in data structures, algorithms, Operating Systems, and Machine Learning, I am continually seeking to deepen my expertise in Software Engineering and Project Management.</br></br>
 👯 I’m eager to collaborate on projects that push the boundaries of what's possible in technology, especially those that can have a real-world impact.</br></br>
